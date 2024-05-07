@@ -359,6 +359,7 @@ td {
 }
 
 .about .content .boxes1 .box {
+	font-size: 25px;
 	margin: 10px 20px;
 	max-width: calc(100% - 50px);
 	text-align: center;
