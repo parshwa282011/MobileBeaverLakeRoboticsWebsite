@@ -531,9 +531,13 @@ footer .footer span a:hover {
 .home-title {
 	text-align: center;
 	color: #fff;
-    font-family: Century Gothic;
-    font-size: 3vw;
-    font-weight: 700;
-    padding: 1vw 2vw;
-    z-index: 5;
+	font-family: Century Gothic;
+	font-size: 3vw;
+	font-weight: 700;
+	padding: 1vw 2vw;
+	z-index: 5;
+}
+
+div ul li a{
+	background-color: white;
 }
